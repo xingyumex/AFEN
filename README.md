@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code and supplementary materials for the paper titled `Aqua fusion enhancement network: an approach for enhanced visibility in underwater digital images`. This research focuses on the visual enhancement of underwater images and is currently under review
+This repository contains the source code and supplementary materials for the paper titled `Aqua fusion enhancement network: an approach for enhanced visibility in underwater digital images`. This research focuses on the visual enhancement of low-illumination underwater images and is currently under review
 
 ![View Image](AFEN.png)
 
