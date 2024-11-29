@@ -1,4 +1,4 @@
-# AFEN: An Approach for Enhanced Visibility in Underwater Photography
+# Aqua fusion enhancement network: an approach for enhanced visibility in underwater digital images
 
 ## Overview
 
